@@ -1,4 +1,4 @@
-# Bostin-Housing-Value-Prediction
+# CART-Bostin-Housing-Value-Prediction
 We’ll use the Boston data set from the sklearn.datasets  for predicting the median house value (mdev), in Boston Suburbs,  using different predictor variables.
 Steps:
 * Step 1: Create a new python project and import/ load the dataset.
