@@ -7,3 +7,5 @@ Steps:
 * Step 4: Create the regression tree, extract important features
 * Step 5: Evaluate model; find the best “complexity parameter” value that minimize the prediction error RMSE (root mean squared error).
 * Step 6: Use the model to predict a value
+
+Using tools: python, Sklearn, matplotlib, graphviz, seaborn, numpy
